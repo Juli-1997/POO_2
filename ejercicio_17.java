@@ -8,13 +8,10 @@ import java.util.Scanner;
 
 /**
  *
- * @author HP-255-G10
+ * @author HP-255-G10-Juliana-Castellar
  */
 public class ejercicio_17 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
        Scanner entrada=new Scanner(System.in);
         float radio, area, longitud;
@@ -31,3 +28,4 @@ public class ejercicio_17 {
     }
     
 }
+
