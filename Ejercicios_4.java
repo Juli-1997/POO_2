@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author HP-255-G10
+ * @author HP-255-G10-Juliana-Castellar
  */
 public class Ejercicios_4 {
 
