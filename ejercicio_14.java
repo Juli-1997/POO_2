@@ -8,13 +8,10 @@ import java.util.Scanner;
 
 /**
  *
- * @author HP-255-G10
+ * @author HP-255-G10-Juliana-Castellar
  */
 public class ejercicio_14 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Scanner entrada=new Scanner(System.in);
         int num, cuadrado, cubo;
@@ -29,3 +26,4 @@ public class ejercicio_14 {
     }
     
 }
+
