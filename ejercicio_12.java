@@ -6,13 +6,10 @@ package com.mypoo2.ejercicios_poo;
 
 /**
  *
- * @author HP-255-G10
+ * @author HP-255-G10-Juliana-Castellar
  */
 public class ejercicio_12 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
        int horas_semana, valor_hora, salario_bruto, retencion, salario_neto;
        float por_retencion;
@@ -30,3 +27,4 @@ public class ejercicio_12 {
     }
     
 }
+
